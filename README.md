@@ -1,2 +1,1 @@
-# cyber-gaming.gihub.io
-Cyber Gaming
+#Cyber-Gaming.github.com
